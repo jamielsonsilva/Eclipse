@@ -1,4 +1,4 @@
-import java.util.Locale;
+import java.util.Locale; 
 import java.util.Scanner;
 
 public class exe1 {
@@ -15,6 +15,8 @@ public class exe1 {
 		
 		if(num < 0){
 			System.out.println("NEGATIVO");
+			System.out.println("JAMIELSON");
+			
 		}else{
 			System.out.println("NAO NEGATIVO");
 		}
